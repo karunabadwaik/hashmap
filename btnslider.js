@@ -1,4 +1,4 @@
-/*this is our external js file*/
+//this is our external js file
 var sindex=0;
 slideshow();
 function slideshow(){
